@@ -1,2 +1,16 @@
 # Gym Tracker [Next.JS]
-Next.js. As part of an ongoing project to challenge myself I have defined and designed an application in Figma, and intend to create it in 3 different tech stacks. This is a simple application that allows for a User to create workouts and then keep track of those workouts as they carry them out.
+## Intro
+To improve as a developer I set out on a project to define and design a relatively simple application, then use that design to develop said application in mutiple stacks. These stacks include a Laravel & Vue based stack, a MEAN Stack, and a Next.JS based stack. 
+
+This application is a simple CRUD Application. It is a gym oriented app intended for a User to use along their workout. With this app you would create your workout plan by either creating or getting pre-existning exercises and adding them to a custom workout that you can define. Then on going to wherever you go for your workout, you are then able to track the workout as you are doing it. At the moment nothing is done with this collecetd data, but this being the first iteration of the application, the intention is that on further iterations the data stored can be used to display progress and for other potential future features.
+
+## Next.JS
+This is the Repository for the Next.JS variation of this 'Gym Tracker' application.
+
+_[Should be noted that the development for this version has yet to start]_
+ 
+ ## URL
+ _[Still under development]_
+ 
+ ## Author
+Elliot (aka littlemorpheus)
